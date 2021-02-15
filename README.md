@@ -46,10 +46,10 @@ raw form of data:
 
 You know the raw data are in the right format if you: 
 
-1. Ran no software on the data
-1. Did not modify any of the data values
-1. You did not remove any data from the data set
-1. You did not summarize the data in any way
+1.Ran no software on the data
+2.Did not modify any of the data values
+3.You did not remove any data from the data set
+4.You did not summarize the data in any way
 
 If you made any modifications of the raw data it is not the raw form of the data. Reporting modified data
 as raw data is a very common way to slow down the analysis process, since the analyst will often have to do a
